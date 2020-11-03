@@ -27,10 +27,10 @@ Hi, I'm [Daniel levy] a Full Stack Developer 🚀 from Israel, currently,I am lo
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning React Native; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📫 How to reach me: [@Daniel Levy](https://www.linkedin.com/in/daniel-levy-fullstack-developer/);
+<!- - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view) -->
 
 **Languages and Tools:**  
 
@@ -45,11 +45,11 @@ Hi, I'm [Daniel levy] a Full Stack Developer 🚀 from Israel, currently,I am lo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **My level of control:**
 <!--START_SECTION:waka-->
 ```text
 Vue.js       9 hrs 55 mins   ███████████████████▓░░░░░   78.28 % 
-C++          2 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+C++          2 hrs 30 mins   ███████████████░░░░░░░░░░░░░░░░░░░░   19.73 % 
 Text         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 <!--END_SECTION:waka-->
