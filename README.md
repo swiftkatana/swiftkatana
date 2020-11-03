@@ -6,4 +6,4 @@
 
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/daniel-levy-fullstack-developer/">LinkedIn</a> 💼
-#💥💥Participates National student competition for building mobile applications  💥💥
+# 💥💥Participates National student competition for building mobile applications  💥💥
