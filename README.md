@@ -60,7 +60,7 @@ Node.js      1 years
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="swiftkatana" /> </p>
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=swiftkatana&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
