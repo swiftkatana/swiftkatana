@@ -58,8 +58,7 @@ Node.js      1 years
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<div align="center"> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swiftkatana)](https://github.com/anuraghazra/github-readme-stats) </div>
-
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swiftkatana)](https://github.com/anuraghazra/github-readme-stats) 
 </details>
 
 
