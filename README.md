@@ -47,8 +47,8 @@ Hi, I'm Daniel levy a Full Stack Developer 🚀 from Israel, currently,I am look
 📊 **Experience in Programming Languages, Frameworks, or Libraries:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1.8 years  
-React&&Redux 1.5 years  
+JavaScript   2 years  
+React&&Redux 2 years  
 Node.js      1   years  
 ```
 <!--END_SECTION:waka-->
@@ -58,7 +58,7 @@ Node.js      1   years
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="swiftkatana" />
 
 </details>
 
