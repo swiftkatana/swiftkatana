@@ -58,7 +58,7 @@ Node.js      1 years
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="swiftkatana" />
+<p align="center"> </p> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="swiftkatana" />
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=swiftkatana)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
