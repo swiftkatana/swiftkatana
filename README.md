@@ -49,7 +49,7 @@ Hi, I'm Daniel levy a Full Stack Developer 🚀 from Israel, currently,I am look
 ```text
 JavaScript   2 years  
 React&&Redux 2 years  
-Node.js      1   years  
+Node.js      1 years  
 ```
 <!--END_SECTION:waka-->
 
