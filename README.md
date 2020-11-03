@@ -32,7 +32,7 @@ Hi, I'm Daniel levy a Full Stack Developer 🚀 from Israel, currently,I am look
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning React Native; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Daniel Levy](https://www.linkedin.com/in/daniel-levy-fullstack-developer/);
+- 📫 How to reach me: [@Daniel Levy](mailTo:danial1029@hotmail.com);<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/email/hotmail.png"></code>
 <!-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view) -->
 
 **Languages and Tools:**  
