@@ -58,8 +58,8 @@ Node.js      1 years
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="swiftkatana" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftkatana" alt="swiftkatana" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="swiftkatana" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftkatana" alt="swiftkatana" />  </p>
+
 
 </details>
 
