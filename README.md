@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm [Daniel levy] a Full Stack Developer 🚀 from Israel, currently,I am looking for a challenge which will let me apply my passion and strong work ethic to the development and creation of ground-breaking projects. My dedication to the field, desire to impact others' experiences, and devotion to life-long learning drive my ability to succeed in a new environment.  
+Hi, I'm Daniel levy a Full Stack Developer 🚀 from Israel, currently,I am looking for a challenge which will let me apply my passion and strong work ethic to the development and creation of ground-breaking projects. My dedication to the field, desire to impact others' experiences, and devotion to life-long learning drive my ability to succeed in a new environment.  
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
