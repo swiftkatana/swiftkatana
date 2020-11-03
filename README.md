@@ -9,6 +9,9 @@
 <a href="https://t.me/joinchat/OdWfMBbarOqVkWe-OhrMRg">
   <img align="left" alt="Daniel Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://discord.gg/WqBSqVsP">
+  <img align="left" alt="Daniel's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 <a href="https://www.instagram.com/daniel_beautifulfreeworld/">
   <img align="left" alt="daniel_beautifulfreeworld Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
