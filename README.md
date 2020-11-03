@@ -41,29 +41,21 @@ Hi, I'm [Daniel levy] a Full Stack Developer 🚀 from Israel, currently,I am lo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **My level of control:**
+📊 **Experience in Programming Languages, Frameworks, or Libraries:**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       9 hrs 55 mins   ███████████████████▓░░░░░   78.28 % 
-C++          2 hrs 30 mins   ███████████████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Text         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JavaScript   1.8 years  
+React&&Redux 1.5 years  
+Node.js      1   years  
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  5,874 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 4 tasks this week           
-✅  Completed 407 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swiftkatana&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 </details>
 
