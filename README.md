@@ -1,18 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/WqBSqVsP">
+<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/WqBSqVsP">
   <img align="left" alt="Daniel's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/daniel-levy-fullstack-developer/">
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/daniel-levy-fullstack-developer/">
   <img align="left" alt="Daniel LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/joinchat/OdWfMBbarOqVkWe-OhrMRg">
+<a target="_blank" rel="noopener noreferrer" href="https://t.me/joinchat/OdWfMBbarOqVkWe-OhrMRg">
   <img align="left" alt="Daniel Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="http://wasap.my/972542575616">
+<a target="_blank" rel="noopener noreferrer" href="http://wasap.my/972542575616">
   <img align="left" alt="Daniel's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a href="https://www.instagram.com/daniel_beautifulfreeworld/">
+<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/daniel_beautifulfreeworld/">
   <img align="left" alt="daniel_beautifulfreeworld Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
