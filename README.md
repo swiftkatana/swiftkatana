@@ -4,7 +4,7 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/daniel-levy-fullstack-developer/">
-  <img align="left" alt="Daniel LinkdeIN" backgroundColor="red" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Daniel LinkdeIN" background-color="red" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://t.me/joinchat/OdWfMBbarOqVkWe-OhrMRg">
   <img align="left" alt="Daniel Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
