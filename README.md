@@ -29,7 +29,7 @@ Hi, I'm Daniel levy a Full Stack Developer 🚀 from Israel, currently,I am look
   
 **Talking about Personal Stuffs:**
 
-/* - 👨🏽‍💻 I’m currently working  :wink:; */
+<!-- - 👨🏽‍💻 I’m currently working  :wink:; -->
 - 🌱 I’m currently learning AWS; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Daniel Levy](mailto:danial1029@hotmail.com)
