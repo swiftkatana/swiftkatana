@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm Daniel Levy - a Full Stack Developer 🚀 Looking for my next challenge, which will let me apply my passion and strong work ethic to the development and creation of exciting projects! My dedication to improving others’ online experiences and devotion to life-long learning drive my ability to succeed in a new environments. Looking for opportunity with tangible impact and alongside an exceptional team 💪🏻
+Hi, I'm Daniel Levy - a Full Stack Developer 🚀 Looking for my next challenge, which will let me apply my passion and strong work ethic to the development and creation of exciting projects! My dedication to improving others’ online experiences and devotion to life-long learning drive my ability to succeed in new environments. Looking for the right opportunity with tangible impact - alongside an exceptional team 💪🏻
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
