@@ -47,10 +47,10 @@ Hi, I'm Daniel levy a Full Stack Developer 🚀 from Israel, currently,I am look
 📊 **Experience in Programming Languages, Frameworks, or Libraries:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 years  
-React&&Redux 3 years  
-Node.js      3 years  
-MongoDB      3 years
+JavaScript\TS   5 years  
+React&&Redux 5 years  
+Node.js      5 years  
+MongoDB      5 years
 python       1 year
 flask        1 year
 ```
