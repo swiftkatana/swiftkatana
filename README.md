@@ -22,9 +22,9 @@ The Android app is approved for production on Google Play, and the iOS app is in
 
 ### Before that
 
-- **Wobi** (2022–2026): one of three senior developers on customer-facing insurance products. React, NestJS and Node.js microservices on AWS. Designed and built the NestJS service that replaced a third-party Salesforce wrapper.
-- **AT&T R&D Center** (2022): React Native with native Kotlin and Swift, for a secure communication app.
-- **Herolo** (2021–2022): React and Node.js web apps for agency clients.
+- **Wobi** (Aug 2022 – Jan 2026): one of three senior developers on customer-facing insurance products. React, NestJS and Node.js microservices on AWS. Designed and built the NestJS service that replaced a third-party Salesforce wrapper.
+- **AT&T R&D Center** (Mar – Aug 2022, contractor): React Native with native Kotlin and Swift, for a secure communication app.
+- **Herolo** (May 2021 – Jan 2022): React and Node.js web apps for agency clients.
 
 ### Contact
 
